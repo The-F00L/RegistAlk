@@ -1,0 +1,13 @@
+﻿Önálló feladat:
+
+Készítsünk egy grafikus alkalmazást, RegisztracioAlkalmazas néven.
+Az alkalmazás drótvázát a mellékelt ábra tartalmazza.
+
+A felhasználó a regisztrációs adatokat a formon adhatja meg, a megfelelő típusú komponensek használatával.
+A "Kedvenc Hobbi" listából egyet választhat a felhasználó, de a "Hozzáad" gombbal a lista bővíthető.
+
+A "Mentés" gombra kattintva egy szöveges fájlba mentsük el a regisztrációs adatokat,
+illetve a "Kedvenc hobbik" lista tartalmát.
+A "Betöltés" gombra töltsük be, értelemszerűen.
+
+Github-on dolgozzunk (Visual Studio vagy a GitKraken) segítségével
