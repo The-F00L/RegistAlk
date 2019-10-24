@@ -1,0 +1,10 @@
+D:\Progaming\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csprojAssemblyReference.cache
+D:\Progaming\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.Form1.resources
+D:\Progaming\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.Properties.Resources.resources
+D:\Progaming\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csproj.GenerateResource.cache
+D:\Progaming\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csproj.CoreCompileInputs.cache
+D:\Progaming\RegisztracioAlkalmazas\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.exe.config
+D:\Progaming\RegisztracioAlkalmazas\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.exe
+D:\Progaming\RegisztracioAlkalmazas\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.pdb
+D:\Progaming\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.exe
+D:\Progaming\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.pdb
