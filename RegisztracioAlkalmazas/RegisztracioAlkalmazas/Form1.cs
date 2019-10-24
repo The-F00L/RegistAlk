@@ -132,15 +132,20 @@ namespace RegisztracioAlkalmazas
             for (int i = 0; i < hobbi_Lista.Count; i++)
             {
                 hobbi_Lista.RemoveAt(i);
+                
             }
-            int hossz = _content.Length - 2;
-            int y = 0;
-            while (hossz!=0)
+            hobbi_ListBox.Items.Clear();
+            //hiba
+            ArrayList _hobbiLista = new ArrayList();
+            for (int i = _content.Length; i <= 3; i--)
             {
-                hobbi_Lista.Add(_content[y]);
-                hobbi_ListBox.Items.Add(_content[y]);
-                y++;
-                hossz--;
+                _hobbiLista[i]=_content[i];
+            }
+
+            for (int y = 0; y < _hobbiLista.Count; y++)
+            {
+                hobbi_Lista[y] = _hobbiLista[y];
+                hobbi_ListBox.Items.Add(_hobbiLista[y]);
             }
 
         }
